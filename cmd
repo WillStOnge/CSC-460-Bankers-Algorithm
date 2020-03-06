@@ -1,0 +1,1 @@
+./a.out 10 5 7 < input.txt
